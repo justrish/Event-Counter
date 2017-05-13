@@ -15,7 +15,8 @@ c) Macro don’t have namespace, so a macro in one section of code can affect ot
   a) Inline functions follow all the protocols of type safety enforced on normal functions.
   b) Inline functions are specified using the same syntax as any other function except that they include the inline keyword in the function declaration.
   c) Expressions passed as arguments to inline functions are evaluated once. In some cases, expressions passed as arguments to macros can be evaluated more than once. eg if we get the inputs from the user</P>
-<P class="p10 ft6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  Preprocessor asre just sibstitution patterns applied beofre compiation starts </P>
+<P class="p10 ft6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  Preprocessor asre just sibstitution patterns applied beofre compiation starts
+ d) Inline functions are advantageoues </P>
 
 </DIV>
 </BODY>
